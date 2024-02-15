@@ -1,5 +1,5 @@
 # dmv_concierge_ca
-Quickstart to automate California's DMV appointment
+Kickstart to automate California's DMV appointment
 
 Script that gets you the earliest appointment on the closest DMV. Currently working for California, not for all services.
 
